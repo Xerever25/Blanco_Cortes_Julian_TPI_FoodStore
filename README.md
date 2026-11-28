@@ -5,8 +5,8 @@ Sistema de pedidos de comida: catálogo público, carrito, checkout, seguimiento
 - **Backend:** FastAPI + SQLModel + PostgreSQL (SQLite opcional en desarrollo), arquitectura por capas `Router → Service → UnitOfWork → Repository → Model`.
 - **Frontend:** React 19 + TypeScript + Vite + Tailwind 4, TanStack Query / Form / Table, Zustand y Axios.
 
-- **Repositorio:** `<COMPLETAR: URL del repositorio de GitHub>`
-- **Video de presentación:** `<COMPLETAR: link al video>`
+- **Repositorio:** https://github.com/Xerever25/Blanco_Cortes_Julian_TPI_FoodStore.git
+- **Video de presentación:** https://youtu.be/xUqPIcSmeD8
 - **Autor:** Julián Blanco Cortés
 
 ## Requisitos
